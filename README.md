@@ -8,7 +8,7 @@ This game was developed in the spring of 2020 for AP assignment.
 I used object-oriented programming to develop this game.
 
 # Abilities
-You can customize the color of the discs and boards.
+You can customize the color of the discs and boards.  
 I used recursive functions for logic part
 
 # Note
